@@ -1,6 +1,6 @@
-# Microsoft powershell core with Azure extension on Centos 7
+# Microsoft powershell core with powercli extension on Centos 7
 
-This repository contains a set of PowerShell cmdlets for developers and administrators to develop, deploy and manage Microsoft Azure applications.
+This repository contains a set of PowerShell cmdlets to manage your VMware infrastructure .
 
 ## Running powershell interactively
 
